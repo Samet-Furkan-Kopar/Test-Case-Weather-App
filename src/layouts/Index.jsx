@@ -1,0 +1,11 @@
+import { Outlet } from "react-router-dom";
+
+export default function Index() {
+    return (
+        <div className="min-w-screen min-h-screen">
+            <main>
+                <Outlet />
+            </main>
+        </div>
+    );
+}
