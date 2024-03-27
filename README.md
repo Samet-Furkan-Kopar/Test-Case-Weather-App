@@ -15,12 +15,18 @@ To get started with the project, follow these steps:
 ## Screenshots:
 Below are screenshots of different screens within the project:
 
-![Message Screen](./public/images/weatherSS1.png)
-
-![Message Screen](./public/images/weatherSS2.png)
-
-![Message Screen](./public/images/weatherSS3.png)
-
-![Message Screen](./public/images/weatherSS4.png)
-
+<div class="grid grid-cols-2 gap-4">
+    <div>
+        <img src="./public/images/weatherSS1.png" alt="Screenshot 1">
+    </div>
+    <div>
+        <img src="./public/images/weatherSS2.png" alt="Screenshot 2">
+    </div>
+    <div>
+        <img src="./public/images/weatherSS3.png" alt="Screenshot 3">
+    </div>
+    <div>
+        <img src="./public/images/weatherSS4.png" alt="Screenshot 4">
+    </div>
+</div>
 
